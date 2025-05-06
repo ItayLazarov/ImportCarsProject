@@ -1,0 +1,6 @@
+<transmission>
+  <OrderRequest>
+    <OrderID>1</OrderID>
+    <OrderDate>06/05/2025<OrderDescription><CompanyHp>524345654</CompanyHp><Cars><Car><CarNumber>554055</CarNumber><CarModel>Toyota</CarModel><CarColor>RED</CarColor></Car><Car><CarNumber>5540056</CarNumber><CarModel>Mg</CarModel><CarColor>BLUE</CarColor></Car></Cars></OrderDescription></OrderDate>
+  </OrderRequest>
+</transmission>

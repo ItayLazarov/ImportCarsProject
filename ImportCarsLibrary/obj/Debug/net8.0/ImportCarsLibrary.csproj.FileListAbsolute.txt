@@ -1,0 +1,14 @@
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\bin\Debug\net8.0\ImportCarsLibrary.deps.json
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\bin\Debug\net8.0\ImportCarsLibrary.runtimeconfig.json
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\bin\Debug\net8.0\ImportCarsLibrary.dll
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\bin\Debug\net8.0\ImportCarsLibrary.pdb
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.csproj.AssemblyReference.cache
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.AssemblyInfoInputs.cache
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.AssemblyInfo.cs
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.csproj.CoreCompileInputs.cache
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.dll
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\refint\ImportCarsLibrary.dll
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.pdb
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ImportCarsLibrary.genruntimeconfig.cache
+C:\Users\lazar\OneDrive\Desktop\Projects\ImportCarsFormProject\ImportCarsLibrary\obj\Debug\net8.0\ref\ImportCarsLibrary.dll

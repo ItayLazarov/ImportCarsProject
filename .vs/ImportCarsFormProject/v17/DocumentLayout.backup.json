@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|c:\\users\\lazar\\onedrive\\desktop\\projects\\importcarsformproject\\importcarswinform\\services\\carsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|solutionrelative:importcarswinform\\services\\carsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|c:\\users\\lazar\\onedrive\\desktop\\projects\\importcarsformproject\\importcarswinform\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|solutionrelative:importcarswinform\\searchcarform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|c:\\users\\lazar\\onedrive\\desktop\\projects\\importcarsformproject\\importcarswinform\\importcarsmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|solutionrelative:importcarswinform\\importcarsmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|c:\\users\\lazar\\onedrive\\desktop\\projects\\importcarsformproject\\importcarswinform\\importcarsmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D2BCEF-27E6-4C1A-A413-93007F204F0E}|ImportCarsWinForm\\ImportCarsWinForm.csproj|solutionrelative:importcarswinform\\importcarsmainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchCarForm.cs",
+              "DocumentMoniker": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\SearchCarForm.cs",
+              "RelativeDocumentMoniker": "ImportCarsWinForm\\SearchCarForm.cs",
+              "ToolTip": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\SearchCarForm.cs",
+              "RelativeToolTip": "ImportCarsWinForm\\SearchCarForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:32:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CarsService.cs",
+              "DocumentMoniker": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\Services\\CarsService.cs",
+              "RelativeDocumentMoniker": "ImportCarsWinForm\\Services\\CarsService.cs",
+              "ToolTip": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\Services\\CarsService.cs",
+              "RelativeToolTip": "ImportCarsWinForm\\Services\\CarsService.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAAwHgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T08:02:21.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ImportCarsMainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "RelativeDocumentMoniker": "ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "ToolTip": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\ImportCarsMainForm.cs [Design]",
+              "RelativeToolTip": "ImportCarsWinForm\\ImportCarsMainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:45:18.666Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImportCarsMainForm.cs",
+              "DocumentMoniker": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "RelativeDocumentMoniker": "ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "ToolTip": "C:\\Users\\lazar\\OneDrive\\Desktop\\Projects\\ImportCarsFormProject\\ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "RelativeToolTip": "ImportCarsWinForm\\ImportCarsMainForm.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAvwF4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T07:45:17.228Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

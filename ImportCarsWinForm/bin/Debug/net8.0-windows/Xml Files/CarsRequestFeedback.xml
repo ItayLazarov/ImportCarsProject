@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<transmission 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+				xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <OrderResponse>
+    <Order>1</Order>
+	<CompanyHp>524654345</CompanyHp>
+    <FeedbackDate>14-11-2023T10:43</FeedbackDate>
+    <FeedbackType>100</FeedbackType>
+    <Comment>הזמנה התקבלה בהצלחה</Comment>
+	<Cars>
+	 <Car>
+      <CarNumber>5540055</CarNumber>
+	 </Car>
+	 <Car>
+      <CarNumber>5540056</CarNumber>
+	 </Car>
+	</Cars>
+  </OrderResponse>
+</transmission>
